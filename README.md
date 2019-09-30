@@ -5,4 +5,4 @@
 ##### Multi-jongsul-5
 ###### Multi-jongsul-6
 + Github class
-멀티미디어공학과 20131586 *Github* 수업
+멀티미디어공학과 20131586 *Github 수업*
